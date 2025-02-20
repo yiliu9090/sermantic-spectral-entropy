@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     description = fh.read() 
 
 setuptools.setup( 
-    name="spectral-sermantic-entropy", 
+    name="sermantic-spectral-entropy", 
     version="0.0.1", 
     author="Yi Liu", 
     author_email="", 
