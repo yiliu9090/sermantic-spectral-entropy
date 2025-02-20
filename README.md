@@ -1,1 +1,2 @@
-# spectral-sermantic-entropy
+# Semantic Spectral Entropy 
+This gives us
