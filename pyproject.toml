@@ -13,7 +13,7 @@ namespaces = false
 name = "semantic_spectral_entropy"
 version = "0.0.1"
 authors = [
-  { name="Yi Liu", email="" },
+  { name="Yi Liu", email="yi.liu9090@gmail.com" },
 ]
 description = "Semantic Spectral Entropy"
 readme = "README.md"
@@ -25,10 +25,9 @@ classifiers = [
 ]
 
 dependencies = [
-  "numpy",
-  "pandas",
-  "scikit-learn",
-"collections" 
+"numpy",
+"pandas",
+"scikit-learn",
+"collections", 
+"itertools"
 ]
-
-[project.urls]
