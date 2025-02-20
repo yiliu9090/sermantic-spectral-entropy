@@ -12,7 +12,7 @@ setuptools.setup(
     description="Implementation of Semantic Spectral Entropy", 
     long_description=description, 
     long_description_content_type="text/markdown", 
-    url="", 
+    url="yi.liu9090@gmail.com", 
     license='MIT', 
     python_requires='>=3.8', 
     install_requires=["numpy","pandas","scikit-learn", "collections" ] 
