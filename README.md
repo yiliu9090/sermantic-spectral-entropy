@@ -1,2 +1,2 @@
 # Semantic Spectral Entropy 
-This gives us
+This package gives us the implementation Semantic Spectral Entropy.
